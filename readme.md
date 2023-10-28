@@ -6,7 +6,8 @@
 
 - <b>Tenho 26 anos
 - Atualmente, morando em São Paulo.
-- Trabalho como Desenvolvedor FullStack a 4 anos Amo Hardware e Design!
+- Trabalho como Desenvolvedor FullStack a 4 anos 
+- Amo Hardware e Design!
 - Pronto para novos desafios!</b>
 
 ### Experiência Acadêmica:
