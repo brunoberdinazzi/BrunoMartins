@@ -12,37 +12,37 @@
 
 ### Habilidades Técnicas (Hard Skills):
 
-C#
+- <b>C#
 
-<b>ASP.NET | ASP.NET Classic | Xamarin.Forms
+ASP.NET | ASP.NET Classic | Xamarin.Forms
 
-JavaScript
+- JavaScript
 
 NodeJs | Angular | React
 
-TypeScript
+- TypeScript
 
 ReactNative
 
-Banco de Dados
+- Banco de Dados
 
 MySQL | SQL Server | MongoDB
 
-Controle de Versão
+- Controle de Versão
 
 GitHub | GitLab
 
-Metodologias
+- Metodologias
 Scrum 
 
-Possuo também um bom conhecimento em Hardware, Servidores Windows/Linux e Redes de Computadores.</b>
+- Possuo também um bom conhecimento em Hardware, Servidores Windows/Linux e Redes de Computadores.</b>
 
 ### Habilidades Interpessoais (Soft Skills)
-Autoditada
-Autonomia
-Comunicação interpessoal
-Proatividade
-Capacidade analítica
+- Autoditada
+- Autonomia
+- Comunicação interpessoal
+- Proatividade
+- Capacidade analítica
 
 ### Meus Contatos!
 - <b>[Linkedin](https://www.linkedin.com/in/bruno-martins-81aa291a4/)</b>
