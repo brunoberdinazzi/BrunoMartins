@@ -36,6 +36,7 @@ MySQL | SQL Server | MongoDB
 GitHub | GitLab
 
 - Metodologias
+
 Scrum 
 
 - Possuo também um bom conhecimento em Hardware, Servidores Windows/Linux e Redes de Computadores.</b>
