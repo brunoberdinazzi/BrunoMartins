@@ -1,3 +1,4 @@
+<img src = "">
 
 ### Alguns detalhes sobre a minha pessoa:
 
@@ -44,5 +45,5 @@ Proatividade
 Capacidade analítica
 
 ### Meus Contatos!
-<b>[Linkedin](https://www.linkedin.com/in/bruno-martins-81aa291a4/)</b>
+- <b>[Linkedin](https://www.linkedin.com/in/bruno-martins-81aa291a4/)</b>
 - <b>[E-mail](mailto:brunosilvamardonado@gmail.com)</b>
