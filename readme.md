@@ -1,4 +1,6 @@
-<img src = "">
+### Meu nome:
+- <b> Bruno Martins da Silva Mardonado.
+- Apaixonado por Tecnologia </b>
 
 ### Alguns detalhes sobre a minha pessoa:
 
