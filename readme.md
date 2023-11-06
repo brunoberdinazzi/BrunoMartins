@@ -19,6 +19,10 @@
 
 ASP.NET | ASP.NET Classic | Xamarin.Forms
 
+- Python
+
+Django | FastAPI 
+
 - JavaScript
 
 NodeJs | Angular | React
