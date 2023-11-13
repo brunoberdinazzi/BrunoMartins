@@ -31,9 +31,13 @@ NodeJs | Angular | React
 
 ReactNative
 
+- Linguagem de Comando
+
+Bash | PowerShell 
+
 - Banco de Dados
 
-MySQL | SQL Server | MongoDB
+MySQL | SQL Server | MongoDB | Oracle
 
 - Controle de Versão
 
